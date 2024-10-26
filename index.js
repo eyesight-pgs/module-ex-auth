@@ -1,4 +1,4 @@
-import { logger } from '../common-utils/index.js';
+import { logger } from '../module-ex-common-utils/index.js';
 
 
 export const auth = {
